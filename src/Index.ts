@@ -4,6 +4,7 @@ export * from "./error-handler/action/Capture";
 export * from "./error-handler/action/Match";
 export * from "./error-handler/check/None";
 export * from "./error-handler/check/Some";
+export * from "./error-handler/result/Result";
 export * from "./type/Closure";
 export * from "./type/Errcode";
 export * from "./type/Function";
